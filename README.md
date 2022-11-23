@@ -66,3 +66,16 @@ Atomix Settings Manager Pro (My Solution), Is a system utility/toolkit for windo
 
 </details>
 
+<details>
+
+<summary>Potential Issues</summary>
+
+* Not Cross platform with MacOS
+* Not Cross platform with Windows 8.1 and Lower
+* Not Portable (requires ADMIN Permissions + Heavy Installer)
+* Updates and New Features are slow
+* Varied OS build compatibility.
+* Closed Source (FOR PUBLIC RELEASE)
+
+</details>
+
