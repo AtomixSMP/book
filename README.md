@@ -1,7 +1,20 @@
 # ❓ 1.1 Defining the Problem
 
+
+
+<details>
+
+<summary>General description of the program:</summary>
+
 * General description of the program. Explanation of what the program will do.
+
+<!---->
+
 * Briefly describe the needs, boundaries and any issues relevant to the proposed solution.
+
+</details>
+
+
 
 <details>
 
